@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "esbuild": "^0.14.37",
+    "luxon": "^2.3.2",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "scripts": {
+    "start": "npm i && node ./scripts/start.js"
+  }
+}
