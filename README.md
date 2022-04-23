@@ -13,7 +13,7 @@ node --version
 cd bus_stop
 go test
 
-cd server
+cd service
 go mod tidy
 go get .
 go run .

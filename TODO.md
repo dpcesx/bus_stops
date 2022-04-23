@@ -22,7 +22,6 @@ Get/Retrieve for Stop ID 1
 
 Would return 2 arrival times each for route 1, 2, and 3
 
-
 It should output the updated prediction times every minute until stopped.
 
 Example output when running the app at 3:01PM:
